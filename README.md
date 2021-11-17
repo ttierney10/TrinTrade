@@ -1,6 +1,8 @@
-Written with React... see directions below
-requires download of node_modules from node
-
+Written with React... see directions below\
+requires download of node_modules from node\
+folder src contains main files\
+website pages files include: Home, Item, Account, CreateSale, EditSale, Lists, Login, Messages, Register, Sell, Registered, User.\
+remaining files help populate pages according to name.\
 
 # Getting Started with Create React App
 
