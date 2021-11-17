@@ -1,3 +1,7 @@
+Written with React... see directions below
+requires download of node_modules from node
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
